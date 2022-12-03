@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="150mm"
+   viewBox="0 0 297 150"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="AI_Maschinelles_Lernen_Deep_Learning.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1415"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1161"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9277"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9023"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2965"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2965-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9277-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9023-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1415-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1161-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1415-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1161-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="111.12482"
+     inkscape:cy="273.56131"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1916"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-147)">
+    <ellipse
+       style="opacity:1;fill:#ffdd55;fill-opacity:0.68159204;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path910"
+       cx="147.4863"
+       cy="221.8204"
+       rx="140.98511"
+       ry="66.712799" />
+    <ellipse
+       style="opacity:1;fill:#deaa87;fill-opacity:0.68159204;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path910-7"
+       cx="180.25342"
+       cy="221.68236"
+       rx="107.30878"
+       ry="50.777481" />
+    <ellipse
+       style="opacity:1;fill:#ff5555;fill-opacity:0.68159204;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path910-7-5"
+       cx="215.49248"
+       cy="222.32329"
+       rx="72.162834"
+       ry="34.146759" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.962061"
+       y="202.00476"
+       id="text1082-6"><tspan
+         sodipodi:role="line"
+         id="tspan1080-7"
+         x="26.962061"
+         y="202.00476"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px">Künstliche</tspan><tspan
+         sodipodi:role="line"
+         x="26.962061"
+         y="213.91101"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan972">Intelligenz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="94.113327"
+       y="203.88837"
+       id="text1082-6-3"><tspan
+         sodipodi:role="line"
+         x="94.113327"
+         y="203.88837"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan972-6">Maschinelles</tspan><tspan
+         sodipodi:role="line"
+         x="94.113327"
+         y="215.79462"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan997">Lernen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.52499962px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="187.55281"
+       y="202.00447"
+       id="text1082-6-2"><tspan
+         sodipodi:role="line"
+         x="187.55281"
+         y="202.00447"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan972-1">Deep</tspan><tspan
+         sodipodi:role="line"
+         x="187.55281"
+         y="213.91072"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1022">Learning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12.770823"
+       y="226.79193"
+       id="text1026"><tspan
+         sodipodi:role="line"
+         x="12.770823"
+         y="226.79193"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1041">(Verfahren mit denen </tspan><tspan
+         sodipodi:role="line"
+         x="12.770823"
+         y="233.40651"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1050">Maschinen menschliches </tspan><tspan
+         sodipodi:role="line"
+         x="12.770823"
+         y="240.0211"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1052">Verhalten immitieren.)</tspan><tspan
+         sodipodi:role="line"
+         x="12.770823"
+         y="246.63568"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1046" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.448944"
+       y="226.78935"
+       id="text1026-2"><tspan
+         sodipodi:role="line"
+         x="82.448944"
+         y="226.78935"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1052-9">(Programme lernen von</tspan><tspan
+         sodipodi:role="line"
+         x="82.448944"
+         y="233.40393"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1086">Daten ohne explizites</tspan><tspan
+         sodipodi:role="line"
+         x="82.448944"
+         y="240.01852"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1088">Programmieren.)</tspan><tspan
+         sodipodi:role="line"
+         x="82.448944"
+         y="246.6331"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1046-3" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="170.24007"
+       y="226.78935"
+       id="text1026-2-6"><tspan
+         sodipodi:role="line"
+         x="170.24007"
+         y="226.78935"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1122">(Maschinelles Lernen mittels</tspan><tspan
+         sodipodi:role="line"
+         x="170.24007"
+         y="233.40393"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1126">Künstlicher Neuronaler Netzwerke </tspan><tspan
+         sodipodi:role="line"
+         x="170.24007"
+         y="240.01852"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1132">mit vielen Schichten.)</tspan><tspan
+         sodipodi:role="line"
+         x="170.24007"
+         y="246.6331"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332px"
+         id="tspan1046-3-6" /></text>
+  </g>
+</svg>
